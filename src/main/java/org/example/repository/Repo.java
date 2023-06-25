@@ -144,7 +144,7 @@ public class Repo {
 
     private static void winToyToFile(String line) {
         try (FileWriter fileWriter = new FileWriter(fileOfWin, true)) {
-            fileWriter.write(line);
+            fileWriter.write(line + "\n");
         } catch (IOException e) {
             e.printStackTrace();
         }

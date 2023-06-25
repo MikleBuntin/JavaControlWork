@@ -1,1 +1,14 @@
-Toy: ID=2, name=Цветок, percent=50, count=10;Toy: ID=2, name=Цветок, percent=50, 9;Toy: ID=2, name=Цветок, percent=50, count=9;Toy: ID=0, name=Медведь, percent=20, count=2;Toy: ID=3, name=Юла, percent=40, count=8;Toy: ID=3, name=Юла, percent=40, count=10;Toy: ID=3, name=Юла, percent=40, count=9;Toy: ID=2, name=Цветок, percent=50, count=8;Toy: ID=2, name=Цветок, percent=50, count=7;Toy: ID=1, name=Машина, percent=30, count=5;Toy: ID=1, name=Машина, percent=30, count=4;Toy: ID=1, name=Машина, percent=30, count=3;Toy: ID=0, name=Медведь, percent=20, count=3;Toy: ID=1, name=Машина, percent=30, count=2;Toy: ID=0, name=Медведь, percent=20, count=2;
+Toy: ID=2, name=Цветок, percent=50, count=10;
+Toy: ID=2, name=Цветок, percent=50, count=9;
+Toy: ID=0, name=Медведь, percent=20, count=2;
+Toy: ID=3, name=Юла, percent=40, count=8;
+Toy: ID=3, name=Юла, percent=40, count=10;
+Toy: ID=3, name=Юла, percent=40, count=9;
+Toy: ID=2, name=Цветок, percent=50, count=8;
+Toy: ID=2, name=Цветок, percent=50, count=7;
+Toy: ID=1, name=Машина, percent=30, count=5;
+Toy: ID=1, name=Машина, percent=30, count=4;
+Toy: ID=1, name=Машина, percent=30, count=3;
+Toy: ID=0, name=Медведь, percent=20, count=3;
+Toy: ID=1, name=Машина, percent=30, count=2;
+Toy: ID=0, name=Медведь, percent=20, count=2;

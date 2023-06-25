@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef836587-9b16-4619-8125-fc86130c3262" name="Changes" comment="Базовый проект готов. Можно добавить игрушки, просмотреть остаток и поиграть.">
+    <list default="true" id="ef836587-9b16-4619-8125-fc86130c3262" name="Changes" comment="Подчистил код, убрал ошибки записи в файл.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/All.txt" beforeDir="false" afterPath="$PROJECT_DIR$/All.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WinToys.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WinToys.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/Repo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/Repo.java" afterDir="false" />
     </list>
@@ -95,14 +94,22 @@
       <option name="project" value="LOCAL" />
       <updated>1687677522587</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Подчистил код, убрал ошибки записи в файл.">
+      <created>1687679102896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687679102896</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit." />
     <MESSAGE value="Начал работу." />
     <MESSAGE value="Базовый проект готов. Можно добавить игрушки, просмотреть остаток и поиграть." />
-    <option name="LAST_COMMIT_MESSAGE" value="Базовый проект готов. Можно добавить игрушки, просмотреть остаток и поиграть." />
+    <MESSAGE value="Подчистил код, убрал ошибки записи в файл." />
+    <option name="LAST_COMMIT_MESSAGE" value="Подчистил код, убрал ошибки записи в файл." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
