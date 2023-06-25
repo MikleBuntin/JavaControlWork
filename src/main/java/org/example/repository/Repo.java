@@ -44,6 +44,7 @@ public class Repo {
             int newID = 0;
             int id = 0;
             while (line != null) {
+                System.out.println(line);
                 String[] subLine = line.split("ID=");
                 id = Integer.parseInt(subLine[1].split(", ")[0]);
                 if (id >= newID) {
@@ -74,7 +75,7 @@ public class Repo {
                 } else {
                     String[] subLine2 = line.split("count=");
                     Integer count = Integer.parseInt(subLine2[1].split(";")[0]);
-                    String line2 = subLine2[0] + (count - 1) + ";" + "\n";
+                    String line2 = subLine2[0] + "count=" + (count - 1) + ";";
                     stringList.add(line2);
                 }
                 line = bufferedReader.readLine();
@@ -125,7 +126,10 @@ public class Repo {
                 String[] subLine2 = line.split("percent=");
                 summOfPercent += Integer.parseInt(subLine2[1].split(", ")[0]);
                 if (winNumber <= summOfPercent) {
-                    System.out.println(line);
+                    subLine2 = line.split("name=");
+                    String name = subLine2[1].split(", ")[0];
+                    System.out.println("Вы выиграли игрушку '" + name + "'");
+                    System.out.println("Поздравляем!!!");
                     Repo.winToyToFile(line);
                     return id;
                 }

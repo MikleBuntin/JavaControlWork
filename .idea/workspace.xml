@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef836587-9b16-4619-8125-fc86130c3262" name="Changes" comment="Начал работу.">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ef836587-9b16-4619-8125-fc86130c3262" name="Changes" comment="Базовый проект готов. Можно добавить игрушки, просмотреть остаток и поиграть.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/All.txt" beforeDir="false" afterPath="$PROJECT_DIR$/All.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinToys.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WinToys.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/repository/Repo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/repository/Repo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,11 +51,11 @@
       <recent name="D:\GBLearning\Java\JavaControlWork\JavaControlWork\src\main\java\org\example" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GBLearning\Java\JavaControlWork\JavaControlWork" />
       <recent name="D:\GBLearning\Java\JavaControlWork\JavaControlWork\src\main\java\org\example" />
+      <recent name="D:\GBLearning\Java\JavaControlWork\JavaControlWork\src\main\java" />
+      <recent name="D:\GBLearning\Java\JavaControlWork\JavaControlWork\src\main\java\org\example\repository" />
       <recent name="D:\GBLearning\Java\JavaControlWork\JavaControlWork\src" />
-      <recent name="D:\GBLearning\Java\JavaControlWork\JavaControlWork\target\classes\org" />
-      <recent name="D:\GBLearning\Java\JavaControlWork\JavaControlWork\target\classes\org\example" />
-      <recent name="D:\GBLearning\Java\JavaControlWork\JavaControlWork\target\classes\org\example\repository" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -82,13 +81,28 @@
       <option name="project" value="LOCAL" />
       <updated>1687642475662</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Базовый проект готов. Можно добавить игрушки, просмотреть остаток и поиграть.">
+      <created>1687677508905</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687677508905</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Базовый проект готов. Можно добавить игрушки, просмотреть остаток и поиграть.">
+      <created>1687677522587</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687677522587</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit." />
     <MESSAGE value="Начал работу." />
-    <option name="LAST_COMMIT_MESSAGE" value="Начал работу." />
+    <MESSAGE value="Базовый проект готов. Можно добавить игрушки, просмотреть остаток и поиграть." />
+    <option name="LAST_COMMIT_MESSAGE" value="Базовый проект готов. Можно добавить игрушки, просмотреть остаток и поиграть." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
