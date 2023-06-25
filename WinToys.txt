@@ -1,0 +1,1 @@
+Toy: ID=2, name=Цветок, percent=50, count=10;

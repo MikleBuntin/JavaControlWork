@@ -1,0 +1,4 @@
+Toy: ID=0, name=Медведь, percent=20, count=2;
+Toy: ID=1, name=Машина, percent=30, count=2;
+Toy: ID=2, name=Цветок, percent=50, 9;
+
